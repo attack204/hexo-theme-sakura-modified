@@ -8,7 +8,12 @@
 - 修改了404页面
 - 其他细节优化
 
-## 安装
+## install
 
 clone到本地之后npm install一下就好
 
+## demo
+
+[blog.attack204.com](blog.attack204.com)
+
+![](http://cdn.attack204.com/20201212180347.png)
