@@ -1837,7 +1837,9 @@ i.iconfont.hotpost {
     -webkit-box-orient:vertical;
     -webkit-line-clamp:2;
     overflow:hidden;
-    word-wrap:break-word
+    word-wrap:break-word;
+    font-size: 29px;
+    margin: 15px 0px;
 }
 .post-date,.post-meta,.post-meta a {
     color:#888;
